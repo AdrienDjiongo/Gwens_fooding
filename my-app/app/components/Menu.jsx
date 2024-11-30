@@ -20,7 +20,7 @@ const Menu = () => {
               <h1
                 className={` ${luckiestGuy.className} text-5xl text-white   py-2 `}
               >
-                Pizza
+                Burger
               </h1>
               <p
                 className={` ${robotoSerif.className} text-xl my-3 font-semibold text-white `}

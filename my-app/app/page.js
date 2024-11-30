@@ -16,7 +16,7 @@ const robotoSerif = Roboto_Serif({
 
 export default function Home() {
   return (
-    <div className=" bg-[url('/bg-hero.png')] h-[500px] px-4 pt-8 ">
+    <div className=" bg-[url('/bg-hero.png')] px-4 pt-8 ">
       <Hero luckyFont={luckiestGuy} robotoFont={robotoSerif} />
       <Menu luckyFont={luckiestGuy} robotoFont={robotoSerif} />
       <Footer luckyFont={luckiestGuy} robotoFont={robotoSerif} />
