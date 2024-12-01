@@ -9,10 +9,6 @@ const luckiestGuy = Luckiest_Guy({
   weight: ["400"], // Luckiest Guy typically has a single weight
   subsets: ["latin"],
 });
-const robotoSerif = Roboto_Serif({
-  weight: ["400", "500"],
-  subsets: ["latin"],
-});
 
 export default function Home() {
   return (
