@@ -11,6 +11,10 @@ module.exports = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+
+      fontFamily: {
+        luckyFont: ["luckiest-guy"], // Add Fira Code as the default monospace font
+      },
     },
   },
   plugins: [],
